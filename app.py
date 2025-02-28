@@ -142,5 +142,5 @@ if st.button("Generate CV"):
         if image_path:
             os.remove(image_path)
     else:
-        st.error("Please fill in all required fields.")
+        st.error("Please fil in all required fields.")
 
